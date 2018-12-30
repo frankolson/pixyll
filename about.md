@@ -10,7 +10,7 @@ tags: about
   <h1 class="mt1">Hi I'm Will 👋</h1>
 </div>
 
-I'm Will Olson, a freelance web developer in the Reno/Tahoe area. I am a problem solver specializing in building websites for businesses. My goal is to bridge the gap between the complicated nature of the internet and small business owners who just want to better their business.
+I'm a freelance web developer in the Reno/Tahoe area. I am a problem solver specializing in building websites for businesses. My goal is to bridge the gap between the complicated nature of the internet and small business owners who just want to better their business.
 
 **Interesting fact about me:** I have a slight obsession with [The Office](https://twitter.com/theofficenbc). If you like it too, I'm sure we'll be best buds.
 
