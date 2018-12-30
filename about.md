@@ -5,85 +5,41 @@ permalink: /about/
 tags: about
 ---
 
-# Hi I'm Will 👋
+<div class="table about">
+  <img src="{{ site.baseurl }}/images/me.jpeg" alt="Will Olson" class="avatar" />
+  <h1 class="mt1">Hi I'm Will 👋</h1>
+</div>
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+I'm Will Olson, a freelance web developer in the Reno/Tahoe area. I am a problem solver specializing in building websites for businesses. My goal is to bridge the gap between the complicated nature of the internet and small business owners who just want to better their business.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+**Interesting fact about me:** I have a slight obsession with [The Office](https://twitter.com/theofficenbc). If you like it too, I'm sure we'll be best buds.
 
-Thanks to the following:
+## People who have enjoyed my work
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+<blockquote>
+  <p>
+    [Will] is a great programmer with good communication skills. Having the experience co-running his own company makes him an ideal candidate for startups and big companies alike. He is able to relate technical and business needs and achieve results with loose and changing specifications. Great understanding of lean and test driven development. It has been a truly fun and enjoyable experience working with [Will].
+  </p>
 
-List of contributors:
+  <footer>
+    <cite>
+      <a href="https://www.linkedin.com/in/ravimakadia">Ravi Makadia</a>
+    </cite>
+  </footer>
+</blockquote>
 
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Bartek Krzemień
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- Donate Altenburger
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+---
+
+## Some things I have coded
+
+**Dringo**<br />
+[https://dringo.io](https://dringo.io)<br />
+A website that encompasses a job board and networking site all in one.
+
+**Stagecoach Storage**<br />
+[http://stagecoachstoragenv.com/](http://stagecoachstoragenv.com/)<br />
+Family owned and operated storage facility based in Stagecoach, NV.
+
+**memory_logr**<br />
+[https://github.com/frankolson/memory_logr](https://github.com/frankolson/memory_logr)<br />
+Log memory consumption of ruby methods on *nix operating systems.
