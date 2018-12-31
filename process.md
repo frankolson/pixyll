@@ -7,7 +7,7 @@ tags: process
 
 # My Process
 
-Simplicity is key in  my book. So over the years, I have found that the following process for taking on new projects works best for me an my clients.
+Simplicity is key in  my book. So over the years, I have found that the following process for taking on new projects works best for me and my clients.
 
 ## Step 1: Initial meeting
 
