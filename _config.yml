@@ -4,7 +4,7 @@ email:       will.olson11@gmail.com
 author:      Will Olson
 description: Solving your business's online problems.
 baseurl:     ""
-url:         "https://thinkolson.com"
+url:         "https://willolson.me"
 date_format: "%-d %B %Y"
 header_pages:
  - about.md
