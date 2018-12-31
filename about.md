@@ -36,6 +36,10 @@ I'm a freelance web developer in the Reno/Tahoe area. I am a problem solver spec
 [https://dringo.io](https://dringo.io)<br />
 A website that encompasses a job board and networking site all in one.
 
+**Capstone Connect**<br />
+[https://capstoneconnect.com/](https://capstoneconnect.com/)<br />
+Community built and organized effort to keep graduates in the area by connecting them with local industry.
+
 **Stagecoach Storage**<br />
 [http://stagecoachstoragenv.com/](http://stagecoachstoragenv.com/)<br />
 Family owned and operated storage facility based in Stagecoach, NV.
