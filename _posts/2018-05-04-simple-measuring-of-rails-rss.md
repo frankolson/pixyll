@@ -2,7 +2,7 @@
 layout:     post
 title:      Simple measuring of Rails RSS
 date:       2018-05-04 11:21:29
-summary:    This is an empty post to illustrate the pagination component with Pixyll.
+summary:    I toy around with monitoring memory in Rails applications.
 categories: ruby rails
 ---
 ![Ram](https://source.unsplash.com/BHQrJv34sw4/600)
