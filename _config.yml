@@ -7,8 +7,6 @@ baseurl:     ""
 url:         "https://willolson.io"
 date_format: "%-d %B %Y"
 header_pages:
- - about.md
- - process.md
  - blog/index.html
  - contact.html
 
