@@ -13,7 +13,11 @@ I'm a web developer in the Reno/Tahoe area and I built <a href="https://cyberhoo
 
 ---
 
-## Some things I have projects I have worked on
+## Some things I have worked on
+
+**Procore**<br />
+[https://procore.com](https://procore.com)<br />
+Project management software for construction companies.
 
 **Breadware**<br />
 [https://breadware.com](https://breadware.com)<br />
@@ -38,6 +42,30 @@ Log memory consumption of ruby methods on *nix operating systems.
 ---
 
 ## People who have enjoyed my work
+
+<blockquote>
+  <p>
+  Will is a talented engineer, a motivated learner, a consistent positive energy, and a highly-effective communicator. Will holds himself to extremely high standards in all of his work and it shows. His deliverables consistently impressed me and his teammates. Will was able to jump head-first into a rapid and challenging development project at Breadware and excel in it. I highly recommend Will.
+  </p>
+
+  <footer>
+    <cite>
+      <a href="https://www.linkedin.com/in/daniel-price-a0b33834/">Daniel Price</a>
+    </cite>
+  </footer>
+</blockquote>
+
+<blockquote>
+  <p>
+  Will was an excellent addition to our team. He came in as principally a Rails developer, but dove directly into our React/Typescript stack and quickly got oriented and started building awesome stuff - a testament to his web development prowess. He took the time to seek out and fill gaps in his knowledge, was not afraid to ask questions, and was always ready to offer solutions when building out new features. He had well organized and clean code, was a team player, and overall was pleasant to work with. Anyone would be lucky to have him.
+  </p>
+
+  <footer>
+    <cite>
+      <a href="https://www.linkedin.com/in/ranegridley/">Rane Gridley</a>
+    </cite>
+  </footer>
+</blockquote>
 
 <blockquote>
   <p>
