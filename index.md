@@ -45,6 +45,18 @@ Log memory consumption of ruby methods on *nix operating systems.
 
 <blockquote>
   <p>
+  Will is the best tech lead I've worked with over my 20 year career in software development. He's very smart, a quick study with business logic and new technologies, and has excellent communication skills. Will was hired as a contractor, promoted to tech lead within three months, and has since been leading all the technical conversations across different teams (documenting technical designs as well as researching the relevant components and new technologies to form the service-oriented architecture for our platform workflow engine). The team has become more productive and motivated under Will's leadership and guidance. I highly recommend Will and hope to work on more projects with him in the future.
+  </p>
+
+  <footer>
+    <cite>
+      <a href="https://www.linkedin.com/in/oliva-odom-7b57b21b/">Oliva Odom</a>
+    </cite>
+  </footer>
+</blockquote>
+
+<blockquote>
+  <p>
   Will is a talented engineer, a motivated learner, a consistent positive energy, and a highly-effective communicator. Will holds himself to extremely high standards in all of his work and it shows. His deliverables consistently impressed me and his teammates. Will was able to jump head-first into a rapid and challenging development project at Breadware and excel in it. I highly recommend Will.
   </p>
 
